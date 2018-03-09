@@ -1,7 +1,6 @@
 class CoreosCt < Formula
   desc "Convert a Container Linux Config into Ignition"
   homepage "https://coreos.com/os/docs/latest/configuration.html"
-  url "https://github.com/coreos/container-linux-config-transpiler/archive/v0.7.0.tar.gz"
   url "https://github.com/coreos/container-linux-config-transpiler.git",
       :tag => "v0.7.0",
       :revision => "90d21c6c8e51e38198fd5e6517e961bd7b885832"
